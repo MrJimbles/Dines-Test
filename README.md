@@ -1,6 +1,6 @@
 # Dines Test
 
-For this test I decided to utilise Django, this was my first time utilising it however I wanted to do the project using it in order to show my aptitude for learning new frameworks. I approached this utilising primarily rest framework's API Views as it provides a comprehensive solution for handling requests while allowing you to overwrite it's functions to implement custom behaviours. 
+For this test I decided to utilise Django, this was my first time utilising it however I wanted to do the project using it in order to show my aptitude for learning new frameworks. I approached this utilising primarily rest framework's API Views as it provides a comprehensive solution for handling requests while allowing you to overwrite it's functions to implement custom behaviours. The database is the default Django SQL Lite, the reason for this is just simplicity in getting it sent over to you. I have however done research on how to connect a Django app through to other databases and additionally have experience using SQL Alchemy in the past with Flask.
 
 ## Modules
 
